@@ -38,6 +38,13 @@ Are these optional or baseline?
 * mattermost
 * twitter*
 
+## Standalone Examples
+
+* TIL
+  * also UI
+* poll
+* reminders
+
 ## Integrations Examples
 
 * todoist
